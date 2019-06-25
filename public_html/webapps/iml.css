@@ -1,0 +1,36 @@
+h1 {
+	font-family: fantasy;
+	padding: 1em;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+h2 {
+	font-family: fantasy;
+	text-align: center;
+	padding: 1em;
+	display: block;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+form {
+	background-color: #ffddee;
+	opacity: 1;
+	border: 1em;
+	padding: 5em;
+	width: 700px;
+	margin: 0 auto;
+	border: 5px solid black;
+	border-radius: 1em;
+}
+
+input {
+	border: 1.5px solid black;
+	border-radius: 1em;
+}
+
+body {
+	background-color: #d1f1fe;
+	text-align: center;
+}
